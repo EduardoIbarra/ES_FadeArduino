@@ -1,4 +1,4 @@
-Puedes encontrar el tutorial completo en: 
+Puedes encontrar el tutorial completo en: http://www.youtube.com/watch?v=Be1s0D4AhNU
 
 =============
 TUTORIAL
@@ -11,5 +11,6 @@ TUTORIAL
 SÍGUENOS
 =============
 http://youtube.com/str0ngbacker
+http://runyourcode.com
 http://facebook.com/RunYourCode
 http://twitter.com/RunYourCode
